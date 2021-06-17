@@ -1,0 +1,14 @@
+{
+	"title": "Asset Metadata",
+	"type": "object",
+	"properties": {
+		"name": {
+			"type": "string",
+			"description": "FrenchFries"
+		},
+		"signature": {
+			"type": "string",
+			"description": "c40418ac45aef6384bc2025cc79d985a7ca96cbd18faf5872a7ac2be2d24bbdc"
+		}
+	}
+}
