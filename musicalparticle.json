@@ -1,0 +1,14 @@
+{
+	"title": "Asset Metadata",
+	"type": "object",
+	"properties": {
+		"name": {
+			"type": "string",
+			"description": "MusicalParticle"
+		},
+		"signature": {
+			"type": "string",
+			"description": "d7f21b08ce52ea2512b832dc041662eb30f38c2a7f1a73679ce19ec1cc920177"
+		}
+	}
+}
