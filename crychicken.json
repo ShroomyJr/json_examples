@@ -1,0 +1,14 @@
+{
+	"title": "Asset Metadata",
+	"type": "object",
+	"properties": {
+		"name": {
+			"type": "string",
+			"description": "CryChicken"
+		},
+		"signature": {
+			"type": "string",
+			"description": "7a5da35301128a3f0feb3babaea62a4c53baa5c3b0d6c2828659e43f4e92e6ac"
+		}
+	}
+}
