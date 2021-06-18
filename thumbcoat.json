@@ -1,0 +1,15 @@
+
+{
+	"title": "Asset Metadata",
+	"type": "object",
+	"properties": {
+		"name": {
+			"type": "string",
+			"description": "ThumbCoat"
+		},
+		"signature": {
+			"type": "string",
+			"description": "3456df351e91d69ac368dd0b8bf263a3cd6351f49c86269d945bfbb334a25ea9"
+		}
+	}
+}
