@@ -1,0 +1,14 @@
+{
+	"title": "Asset Metadata",
+	"type": "object",
+	"properties": {
+		"name": {
+			"type": "string",
+			"description": "CarbonTease"
+		},
+		"signature": {
+			"type": "string",
+			"description": "62bb46db35268c36fe9eb24486a3c6c60f652dc9ffdee1a368f4cca1ed01da38"
+		}
+	}
+}
