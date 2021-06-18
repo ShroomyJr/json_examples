@@ -1,0 +1,14 @@
+{
+	"title": "Asset Metadata",
+	"type": "object",
+	"properties": {
+		"name": {
+			"type": "string",
+			"description": ""
+		},
+		"signature": {
+			"type": "string",
+			"description": ""
+		}
+	}
+}
