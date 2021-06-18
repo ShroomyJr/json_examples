@@ -1,0 +1,14 @@
+{
+	"title": "Asset Metadata",
+	"type": "object",
+	"properties": {
+		"name": {
+			"type": "string",
+			"description": "FinanceKnot"
+		},
+		"signature": {
+			"type": "string",
+			"description": "e173f92ce1e304d406466fa9f79d3407748c0065ecde99941292ef05dad7b405"
+		}
+	}
+}
