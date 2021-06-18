@@ -1,0 +1,14 @@
+{
+	"title": "Asset Metadata",
+	"type": "object",
+	"properties": {
+		"name": {
+			"type": "string",
+			"description": "PartyWitness"
+		},
+		"signature": {
+			"type": "string",
+			"description": "4d94d74a1801a3ae394089f548b8cd689bcb9b83d5a06936ed020db23d16f3cb"
+		}
+	}
+}
