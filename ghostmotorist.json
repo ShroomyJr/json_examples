@@ -1,0 +1,15 @@
+
+{
+	"title": "Asset Metadata",
+	"type": "object",
+	"properties": {
+		"name": {
+			"type": "string",
+			"description": "GhostMotorist"
+		},
+		"signature": {
+			"type": "string",
+			"description": "e429fe5c27543b5ab37c784c71b4cfcba70ee8d528243f7ec05c1458c1dc944f"
+		}
+	}
+}
