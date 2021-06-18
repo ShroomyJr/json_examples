@@ -1,0 +1,14 @@
+{
+	"title": "Asset Metadata",
+	"type": "object",
+	"properties": {
+		"name": {
+			"type": "string",
+			"description": "JamTell"
+		},
+		"signature": {
+			"type": "string",
+			"description": "353ddeed3dc02d68f23cde2b9393ecb490acae3e4f89939d3ab43f36bb3f9827"
+		}
+	}
+}
